@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Retail Analysis Sample PBIX"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "419d9160-39ca-43cb-8ca5-6a8464b21310"
+  }
+}
